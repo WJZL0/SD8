@@ -1,0 +1,6 @@
+numpy
+scipy
+pillow
+imageio
+matplotlib
+tqdm
